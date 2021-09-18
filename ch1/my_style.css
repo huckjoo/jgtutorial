@@ -1,0 +1,30 @@
+* {
+  font-family: "Do Hyeon", sans-serif;
+}
+.login__img {
+  background-image: url("https://www.ancient-origins.net/sites/default/files/field/image/Agesilaus-II-cover.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 300px;
+  height: 250px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login__img__title {
+  color: white;
+  font-size: 40px;
+}
+.login__img__content {
+  color: white;
+  font-size: 22px;
+}
+.login__form {
+  margin-top: 10px;
+}
+.login__screen {
+  width: 300px;
+  margin: auto;
+}
